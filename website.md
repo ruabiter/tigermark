@@ -1,5 +1,4 @@
 
-
 ###### ---------- 9.18更新 ----------
 
 1. 下载 [v2ray-plugin](https://github.com/shadowsocks/v2ray-plugin/releases/download/v1.1.0/v2ray-plugin-windows-amd64-v1.1.0.tar.gz) 并解压在shadowsocks.exe同级目录
@@ -8,12 +7,7 @@
 
 
 
-
-
-
-
-
-
+<br><br><br><br><br><br>
 ###### ---------- 分割线 ----------
 ---
 
@@ -25,9 +19,7 @@ https://www.vpngate.net/cn/
 ![image](https://www.vpngate.net/cn/images/top.jpg)
 
 
-
-
-
+<br><br><br>
 
 ---
 
